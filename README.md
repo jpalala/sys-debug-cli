@@ -1,7 +1,4 @@
-```python
-import os
-
-readme_content = """# DevOps CLI Tool (`myapp`)
+# DevOps CLI Tool (`myapp`)
 
 A context-aware Command Line Interface (CLI) tool designed for streamlined infrastructure and deployment operations. Built with a robust, production-grade architecture featuring unified state management, decoupled environments, and automated testing capabilities.
 
